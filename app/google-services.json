@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917806418268",
+    "project_id": "careskin-ceeba",
+    "storage_bucket": "careskin-ceeba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917806418268:android:8070e28ae79b8ba7fed999",
+        "android_client_info": {
+          "package_name": "com.sujita.careskin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vEtzsYy1K9L61_64Up5DYK8Vi12BE3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
